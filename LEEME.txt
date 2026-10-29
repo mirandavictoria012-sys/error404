@@ -1,0 +1,17 @@
+GRUPO ERROR 404 — Guía de precálculo
+================================
+
+ARCHIVOS
+- index.html: estructura y contenido de la página.
+- styles.css: colores, diseño adaptable a celular/computadora y estilos.
+- script.js: menú móvil y pregunta interactiva.
+
+CÓMO ABRIR EN VISUAL STUDIO CODE
+1. Descomprime guia_precalculo.zip.
+2. Abre Visual Studio Code.
+3. Ve a Archivo > Abrir carpeta y elige la carpeta "guia_precálculo".
+4. Abre index.html.
+5. Puedes abrirlo en el navegador. Recomendado: instalar la extensión "Live Server", hacer clic derecho en index.html y seleccionar "Open with Live Server".
+
+NOTA
+El usuario pidió “Java HTML”; para una página web, normalmente se usa HTML + CSS + JavaScript (no Java). Esta versión usa JavaScript para la interacción. El contenido resume los temas legibles en las imágenes: capítulos 1, 2, apartados visibles del 3 y capítulo 6. Algunos apartados del capítulo 3 no se ven completos en la captura.
